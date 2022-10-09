@@ -67,23 +67,36 @@ beberapa kondisi file pada Git
 
 ## ciri Algoritma
 
-* Finiteness (keterbatasan)
+- Finiteness (keterbatasan)
   Algoritma harus berhenti setelah mengerjakan sejumlah langkah terbatas, dengan kata lain ada tujuan akhir yang dicapai, sehingga suatu program akan berhenti ketika tujuan akhir telah tercapai. Program yang tidak pernah berhenti mengindikasikan bahwa program tersebut berisi algoritma yang salah.
-* Definiteness (kepastian)
+- Definiteness (kepastian)
   Setiap langkah harus didefinisikan dengan tepat dan tidak berarti-dua (ambiguous). Ada intruksi - intruksi yang jelas dan juga tidak ambigu, sehingga tidak terjadi kesalahan di dalam menghasilkan output.
-* Input (masukan)
+- Input (masukan)
   Input ini merupakan suatu permasalahan yang dihadapi serta akan dicarikan solusinya. Algoritma ini mempunyai nol atau lebih input, yaitu besaran yang diberikan kepada algoritma untuk diproses.
-* Output (keluaran)
+- Output (keluaran)
   Algoritma memiliki nilai nol atau lebih keluaran (output). Output ini tentunya harus berupa solusi atau penyelesaian dari suatu masalah. Output dapat berupa pesan atau besaran yang berhubungan dengan input.
-* Effectiveness (efektif)
-    Algoritma harus sangkil (effective), setiap urutan atau langkah harus sesederhana mungkin, sehingga dapat dikerjakan dalam sejumlah waktu yang masuk akal.
+- Effectiveness (efektif)
+  Algoritma harus sangkil (effective), setiap urutan atau langkah harus sesederhana mungkin, sehingga dapat dikerjakan dalam sejumlah waktu yang masuk akal.
+
 ## Proses Algoritma
-  - Sequence = instruksi yang dijalankan secara berurutan
-  -	Selection =  instruksi yang dijalankan memenuhi suatu kondisi
-  -	Iteration = instruksi yang berulang kali dijalankan selama memenuhi suatu kondisi
-  -	Concurrent = instruksi yang dijalankan secara bersamaan
+
+- Sequence = instruksi yang dijalankan secara berurutan
+- Selection = instruksi yang dijalankan memenuhi suatu kondisi
+- Iteration = instruksi yang berulang kali dijalankan selama memenuhi suatu kondisi
+- Concurrent = instruksi yang dijalankan secara bersamaan
 
 ## Penyajian Algoritma
-  - Deskriptif
-  -	Flow Chart
-  - pseudoCode
+
+- Deskriptif
+- Flow Chart
+- pseudoCode
+
+## Javascript
+
+- Javascript merupakan bahasa pemrograman yang bertujuan untuk memanipulasi website agar lebih interaktif.
+- Javascript dikembangkan pertama kali oleh Brendan Eich pada tahun 1995.
+- Awalnya, bahasa ini diberi nama “Mocha”, kemudian dirubah lagi menjadi “LiveScript”, dan terakhir ialah “JavaScript”, yang dipakai sampai sekarang.
+- Ada 2 cara penulisan javascript yang bisa dipakai, yaitu secara Internal dan External.
+- Untuk penulisan secara Internal, kita akan menuliskan kode/syntax JavaScript di dalam HTML secara langsung menggunakan tag <script>
+  > cth
+  > ! [ini adalah contoh penulisan internal javascript](https://i.ibb.co/0nZ3Z3V/1.png)
