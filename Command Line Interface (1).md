@@ -100,3 +100,11 @@ beberapa kondisi file pada Git
 - Untuk penulisan secara Internal, kita akan menuliskan kode/syntax JavaScript di dalam HTML secara langsung menggunakan tag <script>
   > cth
   > ! [ini adalah contoh penulisan internal javascript](/asset/foto1.jpg)
+- Sedangkan untuk penulisan external, kita bisa memisahkan file Javascript, kemudian menghubungkannya ke file HTML
+- Hal yang harus kita persiapkan untuk belajar Javascript
+  1. Text Editor
+    Kita butuh aplikasi Text Editor untuk menulis kode kita. 
+  2. Browser
+    browser favorit seperti: Google Chrome, Edge, Firefox, dan lain-lain.
+  3. Koneksi Internet
+    untuk berjaga jaga apabila kita ingin mengetahui dokumentasi dari apa yang kita pelajari.
