@@ -99,4 +99,4 @@ beberapa kondisi file pada Git
 - Ada 2 cara penulisan javascript yang bisa dipakai, yaitu secara Internal dan External.
 - Untuk penulisan secara Internal, kita akan menuliskan kode/syntax JavaScript di dalam HTML secara langsung menggunakan tag <script>
   > cth
-  > ! [ini adalah contoh penulisan internal javascript](https://i.ibb.co/0nZ3Z3V/1.png)
+  > ! [ini adalah contoh penulisan internal javascript](/asset/foto1.jpg)
