@@ -99,7 +99,7 @@ beberapa kondisi file pada Git
 - Ada 2 cara penulisan javascript yang bisa dipakai, yaitu secara Internal dan External.
 - Untuk penulisan secara Internal, kita akan menuliskan kode/syntax JavaScript di dalam HTML secara langsung menggunakan tag <script>
   > cth
-  > ! [ini adalah contoh penulisan internal javascript](/asset/foto1.jpg)
+  ! [ini adalah contoh penulisan internal javascript](/asset/foto1.jpg)
 - Sedangkan untuk penulisan external, kita bisa memisahkan file Javascript, kemudian menghubungkannya ke file HTML
 - Hal yang harus kita persiapkan untuk belajar Javascript
   1. Text Editor
@@ -108,3 +108,16 @@ beberapa kondisi file pada Git
     browser favorit seperti: Google Chrome, Edge, Firefox, dan lain-lain.
   3. Koneksi Internet
     untuk berjaga jaga apabila kita ingin mengetahui dokumentasi dari apa yang kita pelajari.
+
+## Javascript Dasar
+  * Scope
+  - Scope adalah sebuah tempat dimana sebuah variabel bisa diakses.
+  - Scope dalam Javascript terbagi menjadi 2 yaitu Global Scope dan Local Scope.
+  - Global Scope adalah variabel yang bisa diakses dimana saja.
+  - Local Scope adalah variabel yang hanya bisa diakses di dalam suatu fungsi.
+  - Scope di JavaScript biasanya kita buat batasannya menggunakan simbol curly brackets ({}).
+  -	Global Scope adalah scope yang paling luar di javascript, global scop berarti variabel yang dibuat bisa diakses dimanapun dalam suatu file, agar menjadi global scope, suatu variabel harus dideklarasikan diluar blocks.
+  > cth
+  - Local Scope adalah scope yang berada di dalam suatu fungsi, local scope berarti variabel yang dibuat hanya bisa diakses di dalam fungsi tersebut, agar menjadi local scope, suatu variabel harus dideklarasikan di dalam blocks.Local scope juga sering disebut function scope. Variabel yang dideklarasikan dalam local scope hanya bisa di akses dalam scope tersebut dan tidak dapat diakses secara global atau local scope yang lain
+  > cth
+  - Block Scope, dari pembaharuan ES6 terdapat dua keyword baru untuk mendeklarasikan sebuah variabel, yaitu let dan const. Let dan const ini dapat digunakan untuk mendeklarasikan variabel dalam block scope. Secara umum, block scope adalah ruang lingkup di dalam area kurung kurawal {}, seperti if statement, switch statement, for loop, while loop, dan do while loop. Variabel yang dideklarasikan dalam block scope biasa disebut block level variable. Contoh block scope: contoh 
