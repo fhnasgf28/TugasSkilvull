@@ -1,4 +1,5 @@
 # Command Line Interface
+
 ## _The Last Markdown Editor, Ever_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
@@ -11,8 +12,10 @@ command Line Interface merupakan antar muka berbasis teks yang biasa digunakan u
 - shell juga ada yang berbasi grafis, kita seringkali menyebutnya dengan GUI(Graphical User Interface).
 - ada banyak macam GUI, tapi yang terkenal ada di 3 sistem operasi seperti Mac, windows dan Linux(Ubuntu dkk).
 
-## Navigasi CLI 
+## Navigasi CLI
+
 Navigasi menggunakan CLI, kalau kita perhatikan. sebuah filesystem mengatur bagaimana data disimpan dalam sebuah sistem itu mirip dengan struktur Pohon(Tree).
+
 - ada banyak sekali command Line untuk menavigasi Diantaranya ada , Pwd,ls,cd(directory)
 - adapun directory yang paling atas atau paling pertama disebut "root directory"
 - "pwd" digunakan untuk melihat direktori kita berada saat ini
@@ -20,6 +23,7 @@ Navigasi menggunakan CLI, kalau kita perhatikan. sebuah filesystem mengatur baga
 - "cd" atau change directory digunakan untuk berpindah ke direktori lain.
 
 ## Manipulasi files dan Directory
+
 - "touch" command yang digunakan untuk membuat sebuah file
 - "mkdir" command yang digunakan untuk membuat sebuah direktori
 - untuk melihat isi files kita bisa menggunakan command head,tail,cat
@@ -35,14 +39,39 @@ Navigasi menggunakan CLI, kalau kita perhatikan. sebuah filesystem mengatur baga
 
 - Git merupakan Tools yang sangat berguna untuk para programmer
 - git merupakan sebagai Version Contol System(VCS)
--jadi VCS ini berguna untuk mencatat setiap kali ada perubahan
+  -jadi VCS ini berguna untuk mencatat setiap kali ada perubahan
 - pada file(code) yang kita buat baik secar individu maupun tim
 - pada git setiap kali file yang disimpan akan terlacak,
 - bagaimana perubahannya atau siapa saja yang mengubah file tsb
 - dengan menggunakan kedua tools tersebut akan memudahkan kolaborasi pada saat membuat proyek yang bersifat tim dan kompleks.
 
 beberapa kondisi file pada Git
+
 - Modified, Staged & commited
 - Modified merupakan suatu kondisi dimana revisi maupun perubahan yang sudah dilakukan tetapi belum ditandai(untracked) dan belum disimpan dalam version control.
 - Staged merupakan suatu kondisi dimana revisi yang dilakukan sudah ditandai(modified) namun belum disimpan di version control.
 - committed merupakan suatu kondisi dimana revisi sudah disimpan pada version control.
+
+## Algoritma
+
+- Algoritma adalah suatu daftar langkah demi langkah yang terhingga dari instruksi-intruksi yang terdefinisikan sehingga bisa menyelesaikan tugas yang diberikan.
+- Fungsi utama algoritma
+
+* untuk memecahkan suatu masalah
+* Memudahkan dalam membuat suatu program untuk penyelesaian masalah tertentu
+* dapat digunakan berkali kali untuk menyelesaikan suatu permasalahan
+* Membuat sebuah program yang rumit dan besar menjadi sederhana
+* Mengatasi permasalahan yang ada secara urut
+* Memecahkan program yang rumit sehingga memungkinkan adanya perhitungan tingkat tinggi
+* menggunakannya secara berulang atau lebih dari satu kali penggunaan
+
+- ciri Algoritma
+
+* Finiteness (keterbatasan)
+  Algoritma harus berhenti setelah mengerjakan sejumlah langkah terbatas, dengan kata lain ada tujuan akhir yang dicapai, sehingga suatu program akan berhenti ketika tujuan akhir telah tercapai. Program yang tidak pernah berhenti mengindikasikan bahwa program tersebut berisi algoritma yang salah.
+* Definiteness (kepastian)
+  Setiap langkah harus didefinisikan dengan tepat dan tidak berarti-dua (ambiguous). Ada intruksi - intruksi yang jelas dan juga tidak ambigu, sehingga tidak terjadi kesalahan di dalam menghasilkan output.
+* Input (masukan)
+  Input ini merupakan suatu permasalahan yang dihadapi serta akan dicarikan solusinya. Algoritma ini mempunyai nol atau lebih input, yaitu besaran yang diberikan kepada algoritma untuk diproses.
+* Output (keluaran)
+  Algoritma memiliki nilai nol atau lebih keluaran (output). Output ini tentunya harus berupa solusi atau penyelesaian dari suatu masalah. Output dapat berupa pesan atau besaran yang berhubungan dengan input.
