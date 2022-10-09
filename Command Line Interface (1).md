@@ -65,7 +65,7 @@ beberapa kondisi file pada Git
 * Memecahkan program yang rumit sehingga memungkinkan adanya perhitungan tingkat tinggi
 * menggunakannya secara berulang atau lebih dari satu kali penggunaan
 
-- ciri Algoritma
+## ciri Algoritma
 
 * Finiteness (keterbatasan)
   Algoritma harus berhenti setelah mengerjakan sejumlah langkah terbatas, dengan kata lain ada tujuan akhir yang dicapai, sehingga suatu program akan berhenti ketika tujuan akhir telah tercapai. Program yang tidak pernah berhenti mengindikasikan bahwa program tersebut berisi algoritma yang salah.
@@ -75,3 +75,15 @@ beberapa kondisi file pada Git
   Input ini merupakan suatu permasalahan yang dihadapi serta akan dicarikan solusinya. Algoritma ini mempunyai nol atau lebih input, yaitu besaran yang diberikan kepada algoritma untuk diproses.
 * Output (keluaran)
   Algoritma memiliki nilai nol atau lebih keluaran (output). Output ini tentunya harus berupa solusi atau penyelesaian dari suatu masalah. Output dapat berupa pesan atau besaran yang berhubungan dengan input.
+* Effectiveness (efektif)
+    Algoritma harus sangkil (effective), setiap urutan atau langkah harus sesederhana mungkin, sehingga dapat dikerjakan dalam sejumlah waktu yang masuk akal.
+## Proses Algoritma
+  - Sequence = instruksi yang dijalankan secara berurutan
+  -	Selection =  instruksi yang dijalankan memenuhi suatu kondisi
+  -	Iteration = instruksi yang berulang kali dijalankan selama memenuhi suatu kondisi
+  -	Concurrent = instruksi yang dijalankan secara bersamaan
+
+## Penyajian Algoritma
+  - Deskriptif
+  -	Flow Chart
+  - pseudoCode
