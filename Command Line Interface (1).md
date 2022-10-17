@@ -6,6 +6,44 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
+
+## HTML & CSS
+### Sejarah singkat HTML
+ - HTML pertama kali dikembangkan oleh Tim Berners-Lee dari organisasi European Organization for Nuclear Research (CERN) tahun 1990. Markup language atau HTML ini diciptakan oleh suatu perusahaan penjual perangkat keras dan lunak yakni IBM atau International Bussiness Machines.
+
+ - Sekitar era 1980an, IBM menciptakan sebuah bahasa yang menggabungkan tag atau simbol dengan teks dalam sebuah dokumen. Bahasa yang diciptakan oleh IBM ini dikenal dengan sebutan markup language atau Generalized markup language (GML).
+ - Kemudian rilis versi pertama HTML ditulis oleh Tim Berners-Lee pada 1993. Dikutip dari Washington.edu, sejak itu, mulai banyak versi HTML yang berbeda. Versi yang paling banyak digunakan sepanjang tahun 2000-an adalah HTML 4.01, yang menjadi standar resmi sejak bulan Desember 1999.
+
+- Versi lain, XHTML, adalah penulisan ulang HTML sebagai bahasa XML. XML adalah bahasa markup standar yang digunakan untuk membuat bahasa markup lainnya. Ratusan bahasa XML masih digunakan saat ini, termasuk GML (Geography Markup Language), MathML, MusicML, dan RSS (Really Simple Syndication).
+
+- HTML menjadi standar resmi pada tahun 2000, dan diperbarui pada tahun 2002. XHTML sangat mirip dengan HTML, tetapi memiliki aturan yang lebih ketat. Aturan yang ketat diperlukan untuk semua bahasa XML, karena tanpanya, interoperabilitas antar aplikasi tidak mungkin dilakukan.
+
+- Sebagian besar halaman di Web saat ini dibuat menggunakan HTML 4.01 atau XHTML 1.0. Namun, dalam beberapa tahun terakhir, W3C bekerja sama dengan organisasi lain, WHATWG. Mereka telah mengerjakan versi baru dari HTML, yakni HTML5. Sejak 2011, HTML5 masih berupa spesifikasi draf dan belum menjadi standar resmi.
+
+ - HTML adalah bahasa standar pemrogaman yang digunakan untuk membuat halaman website, yang diakses melalui internet. Singkatan dari "Hypertext Markup Language" atau "bahasa markup".
+ - Dilansir Techterms, "Hypertext" mengacu pada hyperlink yang mungkin terdapat dalam halaman HTML.
+ - HTML disusun berdasar kode dan simbol tertentu, yang dimasukkan dalam sebuah file atau dokumen.
+ - HTML tidak memiliki fitur pemrograman, seperti variabel, perulangan, dan fungsi.
+ ### Fungsi HTML
+ - HTML digunakan untuk membuat dokumen elektronik (disebut halaman) yang ditampilkan di World Wide Web (www).
+ - Setiap halaman berisi serangkaian koneksi ke halaman lain yang disebut hyperlink
+ - Kode HTML memastikan format teks dan gambar yang tepat untuk browser Internet. Tanpa HTML, browser tidak akan tahu bagaimana menampilkan teks sebagai elemen atau memuat gambar atau elemen lainnya.
+ - HTML juga menyediakan struktur dasar halaman, di mana Cascading Style Sheets dihamparkan untuk mengubah tampilannya.
+ * fungsinya adalah
+ 1. Fungsi utama HTML, untuk membuat suatu halaman website yang bisa dibaca dan dipahami dengan lebih mudah. Seluruh laman website yang ada di internet, dibuat dengan HTML dan tak ada pengecualian.
+ 2. Menandai teks pada suatu laman. HTML ditulis pada suatu halaman dokumen dengan tag atau simbol tertentu. Simbol dan tag tersebut akan membuat tampilan teks menjadi tebal, miring, bergaris tebal dan sebagainya.
+ 3. Sebagai dasar website. Website yang dibuat tentu memiliki beberapa fitur. Dibuat menggunakan java script untuk mengatur perilaku web, implemetasi bahasa pemrograman server PHP, dan mendesain web menggunakan CSS.
+ 4. Menampilkan tabel, gambar, video dan lainnya. Umumnya di halaman website atau blog kita tidak bisa langsung meletakkan tabel, gambar maupun video.
+ 5. Menandai elemen dan membuat online form. HTML berfungsi menandai bagian-bagian dalam website di antaranya header, footer, main, navigation dan sebagainya.
+
+## CSS
+- CSS adalah bahasa Cascading Style Sheet dan biasanya digunakan untuk mengatur tampilan elemen yang tertulis dalam bahasa markup, seperti HTML. CSS berfungsi untuk memisahkan konten dari tampilan visualnya di situs.
+- CSS dibuat dan dikembangkan oleh W3C (World Wide Web Consortium) pada tahun 1996 untuk alasan yang sederhana. Dulu HTML tidak dilengkapi dengan tags yang berfungsi untuk memformat halaman. Anda hanya perlu menulis markup untuk situs.
+- CSS dibuat untuk dapat bekerja bersama dengan bahasa markup seperti HTML. 
+- Biasanya CSS digunakan untuk mengatur tampilan halaman.
+- Ada tiga style di CSS, dan untuk menerapkan CSS di banyak halaman pada waktu bersamaan, gunakan External style.
+- Saat ini sudah banyak website yang menggunakan CSS. Hal ini dikarenakan CSS adalah salah satu bahasa markup yang diwajibkan ada.
+ # CLI
 command Line Interface merupakan antar muka berbasis teks yang biasa digunakan untuk menjalankan program, mengelola file komputer dan berinteraksi dengan komputer.
 
 - CLI bisa dikatakan sebagai shell yang berbasis teks, shell ini merupakan program yang menerima perintah, kemudian meneruskan perintah tersebut ke system untuk dieksekusi.
