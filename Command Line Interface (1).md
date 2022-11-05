@@ -159,3 +159,140 @@ beberapa kondisi file pada Git
   - Local Scope adalah scope yang berada di dalam suatu fungsi, local scope berarti variabel yang dibuat hanya bisa diakses di dalam fungsi tersebut, agar menjadi local scope, suatu variabel harus dideklarasikan di dalam blocks.Local scope juga sering disebut function scope. Variabel yang dideklarasikan dalam local scope hanya bisa di akses dalam scope tersebut dan tidak dapat diakses secara global atau local scope yang lain
   > cth
   - Block Scope, dari pembaharuan ES6 terdapat dua keyword baru untuk mendeklarasikan sebuah variabel, yaitu let dan const. Let dan const ini dapat digunakan untuk mendeklarasikan variabel dalam block scope. Secara umum, block scope adalah ruang lingkup di dalam area kurung kurawal {}, seperti if statement, switch statement, for loop, while loop, dan do while loop. Variabel yang dideklarasikan dalam block scope biasa disebut block level variable. Contoh block scope: contoh 
+
+
+    # Web Server & RESTful API
+   ### Hardware
+   - Hardware adalah komponen perangkat keras, yang terdapat pada suatu perangkat komputer. Fungsi hardware sendiri adalah, sebagai media pengolahan data yang diinput oleh operator. Untuk selanjutnya data akan diproses menjadi data output yang berupa informasi.
+
+  - Hardware dari segi fungsinya terbagi menjadi tiga jenis, yaitu masukan (input), pemerosesan (process), serta keluaran (output). Contoh dari ketiga jenis hardware atau perangkat keras tersebut, adalah sebagai berikut:
+  
+  - Input Hardware: adalah perangkat keras yang digunakan untuk memasukan data ke dalam komputer. Contohnya: Keyboard, Scanner, Mouse, Microfon, Web Cam dan lain-lain.
+  
+  - Process Hardware: adalah sekumpulan perangkat keras yang berfungsi untuk mengolah data, sesuai dengan instruksi yang diberikan oleh operator, melalui Input Hardware. Contohnya: CPU (Central Processing Unit).
+  - Output Hardware: hardware ini berperan sebagai perangkat yang menampilkan data hasil olahan dari Process Hardware. Contohnya: Monitor, Printer dan Speaker.
+
+  ### Software
+  * Software adalah perangkat lunak, istilah ini digunakan untuk data yang telah diformat, dan disimpan ke dalam media penyimpanan dalam bentuk digital. Berbagai macam program yang terinstal di dalam perangkat komputer, juga masuk dalam kategori software. Termasuk juga sistem operasi, yang digunakan pada komputer tersebut.
+
+  * Fungsi software sendiri adalah sebagai pendukung dari perangkat keras, yang terdapat pada komputer. Operator menggunakan software, untuk memberikan instruksi kepada hardware, agar dapat bekerja sesuai perintah operator.
+
+  ### Bahasa Pemrograman
+
+   * bahasa pemrograman adalah sekumpulan instruksi yang diberikan kepada komputer utuk dapat melaksanakan suatu tugas tertentu. Bahasa pemrograman ini berupa kode-kode yang dapat dipahami oleh komputer. Bahasa pemrograman ini dibuat oleh manusia, dan kemudian dikonversi menjadi bahasa yang dapat dipahami oleh komputer.
+
+   * Tingkatan Bahasa Pemrograman
+    - Tingkatan bahasa pemrograman terbagi menjadi 3, yaitu:
+    - Bahasa Tingkat Rendah (Low Level Language)
+      bahasa tingkat rendah berisi instruksi-instruksi yang ditujukan kepada komputerdengan menggunakan kode-kode biner. Contoh dari bahasa tingkat rendah adalah bahasa mesin, bahasa assembly, dan bahasa machine code.
+    - Bahasa Tingkat Menengah (Middle Level Language)
+      bahasa tingkat menengah berisi instruksi-instruksi yang ditujukan kepada komputer dengan menggunakan kode-kode biner. Contoh dari bahasa tingkat menengah adalah bahasa C, C++, dan Pascal.
+    - Bahasa Tingkat Tinggi (High Level Language)
+      bahasa tingkat tinggi berisi instruksi-instruksi yang ditujukan kepada komputer dengan menggunakan kode-kode biner. Contoh dari bahasa tingkat tinggi adalah bahasa Java, PHP, dan Python.
+
+  ### Database
+  * Database adalah sekumpulan data yang disimpan dalam suatu sistem komputer, yang dapat diakses oleh beberapa pengguna secara bersamaan. Database ini dapat berupa data yang berupa teks, gambar, video, dan lain-lain. Database ini dapat diakses melalui suatu aplikasi, yang disebut dengan database management system (DBMS).
+  * Database Management System (DBMS) adalah sebuah aplikasi yang digunakan untuk mengelola database. DBMS ini memungkinkan pengguna untuk mengakses, mengelola, dan mengubah data yang ada di dalam database. DBMS ini juga memungkinkan pengguna untuk membuat database baru, menghapus database yang sudah ada, dan mengubah database yang sudah ada.
+  * Fungsi Database 
+    - Fungsi dari database sendiri adalah sebagai berikut:
+    - Menyimpan data secara terstruktur
+    - Mengelola data secara terstruktur
+    - Mengakses data secara terstruktur
+    - Mengubah data secara terstruktur
+    - Menghapus data secara terstruktur
+    - Mengelompokan data dan informasi.
+    - Memudahkan dalam identifikasi data. 
+    - Memudahkan proses akses, menyimpan, 
+    - pembaharuan, dan penghapusan data. 
+    - Menjadi alternatif terkait masalah 
+    - penyimpanan ruang dalam suatu aplikasi. 
+    - Menjaga kualitas data yang diakses sesuai 
+    - input. Menunjang kinerja aplikasi yang 
+    - memerlukan penyimpanan data.
+
+    ### Server
+    * Server adalah sebuah perangkat komputer yang berfungsi sebagai pusat penyimpanan data, dan juga sebagai pusat pengolahan data. Server ini dapat diakses oleh beberapa pengguna secara bersamaan, dan dapat diakses melalui jaringan komputer.
+    * Fungsi Server
+      - Fungsi dari server sendiri adalah sebagai berikut:
+      - Menyimpan data
+      - Mengelola data
+      - Mengakses data
+      - Mengubah data
+      - Menghapus data
+      - Mengelompokan data dan informasi
+      - Memudahkan dalam identifikasi data
+      - Memudahkan proses akses, menyimpan, pembaharuan, dan penghapusan data
+    * Secara sederhana, server bekerja atas permintaan dari sebuah klien. Klien adalah sebuah perangkat komputer yang mengirimkan permintaan kepada server. Server akan menerima permintaan dari klien, dan kemudian akan memproses permintaan tersebut. Setelah permintaan tersebut diproses, server akan mengirimkan balasan kepada klien. Balasan tersebut berupa data yang diminta oleh klien, atau informasi lainnya.
+
+    ### APIs
+    * API adalah singkatan dari Application Programming Interface. API adalah sebuah kumpulan perintah-perintah yang dapat digunakan untuk mengakses suatu aplikasi. API ini memungkinkan pengguna untuk mengakses aplikasi tersebut, tanpa harus mengerti bagaimana aplikasi tersebut bekerja. 
+    * Fungsi API
+      - Fungsi dari API sendiri adalah sebagai berikut:
+      - Memudahkan pengguna untuk mengakses suatu aplikasi
+      - Memudahkan pengembang untuk membuat aplikasi baru
+      - Memudahkan pengembang untuk mengembangkan aplikasi yang sudah ada
+      - Memudahkan pengembang untuk mengubah aplikasi yang sudah ada
+      - Memudahkan pengembang untuk menghapus aplikasi yang sudah ada
+      - Memudahkan pengembang untuk mengelompokan aplikasi dan informasi
+      - Memudahkan pengembang dalam identifikasi aplikasi
+      - Memudahkan pengembang dalam proses akses, pembaharuan, dan penghapusan aplikasi
+
+      * REST API 
+        * REST API adalah singkatan dari Representational State Transfer Application Programming Interface. REST API adalah sebuah kumpulan perintah-perintah yang dapat digunakan untuk mengakses suatu aplikasi. REST API ini memungkinkan pengguna untuk mengakses aplikasi tersebut, tanpa harus mengerti bagaimana aplikasi tersebut bekerja. REST API ini juga memungkinkan pengembang untuk membuat aplikasi baru, mengembangkan aplikasi yang sudah ada, mengubah aplikasi yang sudah ada, menghapus aplikasi yang sudah ada, mengelompokan aplikasi dan informasi, dan memudahkan pengembang dalam identifikasi aplikasi.
+        * Fungsi REST API
+          - Fungsi dari REST API sendiri adalah sebagai berikut:
+          - Memudahkan pengguna untuk mengakses suatu aplikasi
+          - Memudahkan pengembang untuk membuat aplikasi baru
+          - Memudahkan pengembang untuk mengembangkan aplikasi yang sudah ada
+          - Memudahkan pengembang untuk mengubah aplikasi yang sudah ada
+          - Memudahkan pengembang untuk menghapus aplikasi yang sudah ada
+          - Memudahkan pengembang untuk mengelompokan aplikasi dan informasi
+          - Memudahkan pengembang dalam identifikasi aplikasi
+          - Memudahkan pengembang dalam proses akses, pembaharuan, dan penghapusan aplikasi
+
+          ### Framework
+          * Framework adalah sebuah kerangka kerja yang dapat digunakan untuk membangun sebuah aplikasi. Framework ini memungkinkan pengembang untuk membuat aplikasi baru, mengembangkan aplikasi yang sudah ada, mengubah aplikasi yang sudah ada, menghapus aplikasi yang sudah ada, mengelompokan aplikasi dan informasi, dan memudahkan pengembang dalam identifikasi aplikasi.
+          * Fungsi Framework
+            - Fungsi dari framework sendiri adalah sebagai berikut:
+            - Memudahkan pengembang untuk membuat aplikasi baru
+            - Memudahkan pengembang untuk mengembangkan aplikasi yang sudah ada
+            - Memudahkan pengembang untuk mengubah aplikasi yang sudah ada
+            - Memudahkan pengembang untuk menghapus aplikasi yang sudah ada
+            - Memudahkan pengembang untuk mengelompokan
+  ### MERN Stack
+  * MERN adalah singkatan dari MongoDB, Express, React, dan Node.js. MERN adalah sebuah kerangka kerja yang dapat digunakan untuk membangun sebuah aplikasi. MERN ini memungkinkan pengembang untuk membuat aplikasi baru, mengembangkan aplikasi yang sudah ada, mengubah aplikasi yang sudah ada, menghapus aplikasi yang sudah ada, mengelompokan aplikasi dan informasi, dan memudahkan pengembang dalam identifikasi aplikasi.
+  * Fungsi MERN
+    - Fungsi dari MERN sendiri adalah sebagai berikut:
+    - Memudahkan pengembang untuk membuat aplikasi baru
+    - Memudahkan pengembang untuk mengembangkan aplikasi yang sudah ada
+    - Memudahkan pengembang untuk mengubah aplikasi yang sudah ada
+    - Memudahkan pengembang untuk menghapus aplikasi yang sudah ada
+    - Memudahkan pengembang untuk mengelompokan aplikasi dan informasi
+    - Memudahkan pengembang dalam identifikasi aplikasi
+    - Memudahkan pengembang dalam proses akses, pembaharuan, dan penghapusan aplikasi
+
+    ### MongoDB
+    * MongoDB adalah sebuah database yang dapat digunakan untuk menyimpan data. MongoDB ini memungkinkan pengembang untuk menyimpan data, mengelola data, mengakses data, mengubah data, menghapus data, mengelompokan data dan informasi, memudahkan dalam identifikasi data, dan memudahkan proses akses, menyimpan, pembaharuan, dan penghapusan data.
+    * Fungsi MongoDB
+      - Fungsi dari MongoDB sendiri adalah sebagai berikut:
+      - Memudahkan pengembang untuk menyimpan data
+      - Memudahkan pengembang untuk mengelola data
+      - Memudahkan pengembang untuk mengakses data
+      - Memudahkan pengembang untuk mengubah data
+      - Memudahkan pengembang untuk menghapus data
+      - Memudahkan pengembang untuk mengelompokan data dan informasi
+      - Memudahkan pengembang dalam identifikasi data
+      - Memudahkan pengembang dalam proses akses, menyimpan, pembaharuan, dan penghapusan data
+
+      ### Express
+      * Express adalah sebuah kerangka kerja yang dapat digunakan untuk membangun sebuah aplikasi. Express ini memungkinkan pengembang untuk membuat aplikasi baru, mengembangkan aplikasi yang sudah ada, mengubah aplikasi yang sudah ada, menghapus aplikasi yang sudah ada, mengelompokan aplikasi dan informasi, dan memudahkan pengembang dalam identifikasi aplikasi.
+      * Fungsi Express
+        - Fungsi dari Express sendiri adalah sebagai berikut:
+        - Memudahkan pengembang untuk membuat aplikasi baru
+        - Memudahkan pengembang untuk mengembangkan aplikasi yang sudah ada
+        - Memudahkan pengembang untuk mengubah aplikasi yang sudah ada
+        - Memudahkan pengembang untuk menghapus aplikasi yang sudah ada
+        - Memudahkan pengembang untuk mengelompokan aplikasi dan informasi
+        - Memudahkan pengembang dalam identifikasi aplikasi
+        - Memudahkan pengembang dalam proses akses, pembaharuan, dan penghapusan aplikasi
+        
